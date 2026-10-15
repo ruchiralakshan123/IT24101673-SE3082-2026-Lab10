@@ -1,0 +1,6 @@
+Verification: 0 mismatches out of 512
+Time taken - 0.0001209
+Verification: 0 mismatches out of 512
+Time taken - 0.0000889
+Verification: 0 mismatches out of 512
+Time taken - 0.0000861

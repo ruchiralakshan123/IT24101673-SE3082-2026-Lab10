@@ -1,0 +1,10 @@
+Launching 195313 blocks x 512 threads
+99999995) 94 x 22 = 2068
+99999996) 14 x 5 = 70
+99999997) 69 x 82 = 5658
+99999998) 9 x 37 = 333
+99999999) 86 x 21 = 1806
+Verification: 0 mismatches out of 100000000
+Kernel only time    - 0.0047529
+Whole sequence time - 0.4452951
+Whole / kernel ratio - 93.7
