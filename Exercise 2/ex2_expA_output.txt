@@ -1,0 +1,1 @@
+Error: ex2_expA_threads.cu:57, code:1, reason: invalid argument

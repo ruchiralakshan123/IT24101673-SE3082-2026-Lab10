@@ -1,0 +1,1 @@
+Error: ex2_expB_alloc.cu:42, code:2, reason: out of memory
